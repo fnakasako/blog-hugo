@@ -8,6 +8,7 @@ theme = 'smol'
     subtitle = ""
     dateFmt = "02.01.2006 15:04"
     mainSections = ["posts"]
+    customCSS = ["css/custom.css"]  # Add this line to include your custom CSS
 
 # Header
 [menu]
