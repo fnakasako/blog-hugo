@@ -1,5 +1,6 @@
 html {overflow-y: scroll}
 :root { --bgcolor: white; --fontcolor: #444; --linkcolor: #AD343E; --visitedcolor: #632A50; --precolor: #fff; --prebgcolor: #000;}
+
 body{max-width:800px;margin:40px auto;padding:0 10px;font:14px/1.5 monospace;color:var(--fontcolor); background: var(--bgcolor)}a:link{color: var(--linkcolor)}a:visited{color: var(--visitedcolor)}a:active{color: var(--visitedcolor)}h1,h2,h3{line-height:1.2}
 p > code{color: var(--precolor); background: var(--prebgcolor); padding:2px}
 code{color: var(--precolor); background: var(--prebgcolor); padding:2px}
