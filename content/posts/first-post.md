@@ -5,9 +5,9 @@ description: "Struggling with self-definition."
 categories: ["Writing", "Journal"]
 ---
 
-As I was played with sentences, trying to create my own brand of non-fiction on the spot that would make sense for a blog (the majority of the non-fiction that I have written in my life has been journal entries), I circled back to a familiar device for uncertainty: "What do I wish existed?" 
+As I played with sentences, trying to create my own brand of non-fiction that would make sense for a blog (the majority of the non-fiction that I have written in my life has been journal entries), I circled back to a familiar question: “What do I wish existed?”
 
-The problem here is that the kinds of questions that I usually use this device for do not have overtly constraining parameters. For example, when I think to myself what book, or what software do I wish existed, parameters are more or less irrelevant. When trying to apply this to my own life, it doesn't make sense to ask myself 'what person do I wish existed,' for I can't become anyone who I dream up. I have to define myself in the context of the given parameters: my upbringing, my familial story, etc. When framed like this, the question becomes much harder. 
+The problem is that this question usually does not come with overtly constraining parameters. For example, when I think to myself what book, or software I wish existed, parameters are essentially irrelevant. When applying this to my own life, it does not make sense to ask myself ‘what person do I wish existed.” I have to define myself in the context of given parameters: my upbringing, my familial story, etc. When framed like this, the question becomes much harder.
 
 I think that, due to my backstory, I am attracted to abstraction—-to unreality. I think that, even now, while fully aware of my inclination, the only acceptable version of reality for me is one where unreality plays a pivotal part---whether through literature, or through mathematics. I like to believe in the fantasy of self-definition, of volition, even if it is not true. I like to believe that reality is a product of cumulative human belief--that, if we all believed that we could fly, we would, in a sense, be flying. There's comfort in that idea. There's a latent notion of forgiveness, of the possibility to redefining what is, and what is not. 
 
