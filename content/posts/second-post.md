@@ -11,7 +11,7 @@ Every day for the past four years, Elliot has been watching animation, films, or
 
 It's hard to find people to talk about animation with. You first need to find someone who you get along with. This is hard. For them to additionally share a niche, somewhat taboo interest with you is to expect too much. I talk to Elliot about animation. 
 
-Note that up until now I have been using the word animation rather than 'anime.' This is both a social and mental defense mechanism. To express interest in 'anime' is to invite certain associations. The associations are almost unequivocally undesirable. Though its status has recently improved, in certain social circles, to express interest in anime is social suicide. Dave Chappelle gives good insight into why the phenomenon:
+Note that up until now I have been using the word animation rather than 'anime.' This is both a social and mental defense mechanism. To express interest in 'anime' is to invite certain associations. The associations are almost unequivocally undesirable. Though its status has recently improved, in certain social circles, to express interest in anime is social suicide. Dave Chappelle gives good insight into the phenomenon:
 
 > We have bombed the masculinity out of an entire continent. We dropped two atomic bombs on fucking Japan, and they've been drawing Hello Kitty and shit ever since.  
 
