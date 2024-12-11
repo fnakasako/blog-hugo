@@ -21,7 +21,7 @@ Anime, along with other mediums in Japan, were deeply impacted by Japan's defeat
 
 Today, anime continues to grow in popularity. In a [recent survey](https://www.polygon.com/c/2024/1/22/24034466/anime-viewer-survey-research) (keep in mind that this is a small sample size of 4,275 participants), 3% of boomers reported watching anime weekly, as opposed 42% of Gen Z. Only 25% of Gen Z reported to watch the NFL weekly. 
 
-
+---------
 
 
 There was a recently released anime called Dandadan which was heralded as the next Chainsaw Man. I am very, very big fan of Chainsaw Man and think that its author, Tatsuki Fujimoto, is a generational talent. Needless to say, I had very high expectations. What I was met with, unfortunately, was poorly disguised escapism. Not animation, but anime. I read some of the reviews for the show. Near the top was:
